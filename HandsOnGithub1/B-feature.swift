@@ -10,6 +10,7 @@ import SwiftUI
 struct B_feature: View {
     var body: some View {
         Text("This is B feature")
+        Text("Do it")
     }
 }
 
