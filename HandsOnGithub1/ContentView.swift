@@ -18,6 +18,7 @@ struct ContentView: View {
             Text("This is profile")
             Text("Halo Mida")
             Text("Halo Jon")
+            Text("This is uculjon")
         }
         .padding()
     }
