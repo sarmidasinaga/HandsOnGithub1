@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("This is a new feature")
-            Text("This is profile")
+            Text("New uPdate")
         }
         .padding()
     }
